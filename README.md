@@ -1,1 +1,2 @@
 # Project-in-Machine-Learning-for-Portfolio-Selection
+The aim of the project was to create a portfolio that changes daily and selects investment percentages for each stock within the S&P 500. The foundation is the OLMAR algorithm, which is based on historical windows, and we added our own enhancement to the algorithm. This improvement helped us achieve the highest profit percentages in the course and the maximum grade in the competitive part.
